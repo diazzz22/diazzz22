@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--Snake eating contributions-->
+![snake gif](https://github.com/diazzz22/diazzz22/blob/output/github-contribution-grid-snake-dark.svg)
